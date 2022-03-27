@@ -1,8 +1,8 @@
 # some information about you
 name: "Joel Castillo"
-nickname: "John"
+nickname: "Joel"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hola, yo soy Joel"
+greeting: "Hola, yo soy"
 #image: "images/author/Joel.jpg"
 # give your some contact information. they will be used in the footer
 contactInfo:
