@@ -8,11 +8,11 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Economist
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: SAT.
+  url: "https://www.sat.gob.mx/home"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/Castillo Joel - CV.pdf"
@@ -31,9 +31,9 @@ socialLinks:
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Leadership
+- name: Analisis
   percentage: 85
   color: blue
-- name: Team Work
+- name: 
   percentage: 90
   color: yellow
