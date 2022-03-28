@@ -10,9 +10,9 @@ languages:
   en:
     languageName: English
     weight: 1
-  es: 
-    languageName: Español 
-    weight: 3
+  #es: 
+   # languageName: Español 
+   # weight: 3
     
 # Control TOC depth
 markup:
