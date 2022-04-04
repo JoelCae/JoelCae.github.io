@@ -10,16 +10,16 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Ph.D in Quantum Cryptography
-  icon: fa-microscope
-  timeframe: 2016-2020
+- name: Master in Economics
+  icon: fa-graduation-cap
+  timeframe: 2019-2021
   institution:
-    name: ABC University of Technology
-    url: "#"
-  grade: #(optional)
-    scale: CGPA
-    achieved: 3.6
-    outOf: 4
+    name: El Colegio de México
+    url: "https://www.colmex.mx"
+  #grade: #(optional)
+   # scale: CGPA
+    #achieved: 3.6
+    #outOf: 4
   publications: #(optional)
   - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     url: "#"
