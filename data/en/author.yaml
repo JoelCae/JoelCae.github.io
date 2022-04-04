@@ -8,11 +8,12 @@ image: "images/author/Joel.jpg"
 contactInfo:
   email:  "jocastillo@colmex.mx"
   phone: "+5522675611"
+  github: JoelCae
+  linkedin: Joel Castillo Espinosa
 
 # some summary about what you do
 summary:
-  - I am a Developer
-  - I am a Devops
-  - I love servers
-  - I work on open-source projects
-  - I love to work with some fun projects
+  - I am a economist
+  - I am passionate about data science
+  - I am passionate about statistics 
+  - I love programming
