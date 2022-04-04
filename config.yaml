@@ -31,7 +31,7 @@ enableEmoji: true
 params:
 
   # Background image of the landing page
-  background: /images/site/background.jpg
+  background: "images/site/background.jpg"
   
   # GitHub repo URL of your site
   gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
