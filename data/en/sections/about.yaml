@@ -15,7 +15,7 @@ company:
   url: "https://www.sat.gob.mx/home"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/Castillo Joel - CV.pdf"
+resume: "files/CV - Joel Castillo.pdf"
 
 # a summary about you
 summary: ' I am an economist passionate about econometrics, data science and programming. I develop my skills and tools to have a more complete professional version of myself.'
