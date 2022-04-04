@@ -11,11 +11,11 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Servicio de Administración Tributaria
+    name: Servicio de Administración Tributaria (SAT)
     url: "https://www.sat.gob.mx/home"
     location: Mexico City
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: The SAT is the national tax agency in Mexico.
   positions:
   - designation: Head of Deparment
     start: Oct 2021
