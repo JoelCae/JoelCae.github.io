@@ -10,18 +10,22 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Master in Economics
-  icon: fa-graduation-cap
-  timeframe: 2019-2021
+- name: Ph.D in Quantum Cryptography
+  icon: fa-microscope
+  timeframe: 2016-2020
   institution:
-    name: El Colegio de Mexico
-    url: "https://www.colmex.mx"
+    name: ABC University of Technology
+    url: "#"
   grade: #(optional)
-   scale: CGPA
+    scale: CGPA
     achieved: 3.6
     outOf: 4
   publications: #(optional)
-  - title: NAFTA Effects on the Mexican Agricultural Sector: An Application of the Synthetic Control Method
+  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    url: "#"
+  - title: Fusce eu augue ut odio porttitor pulvinar.
+    url: "#"
+  - title: Nullam vitae orci tincidunt purus viverra pulvinar.
     url: "#"
 - name: B.Sc. in Computer Science & Engineering
   icon: fa-graduation-cap
