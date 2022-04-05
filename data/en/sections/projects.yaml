@@ -51,7 +51,7 @@ projects:
   logo: /images/sections/projects/Python.png
   role: Course
   timeline: "2020"
-  repo: https://github.com/kelseyhightower/nocode
+  #repo: https://github.com/kelseyhightower/nocode
   #url: ""
   summary:  Introduction to Python Programming - Pontificia Universidad Católica de Chile
   tags: ["academic"]
