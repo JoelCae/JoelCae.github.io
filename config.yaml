@@ -10,7 +10,7 @@ languages:
   en:
     languageName: English
     weight: 1
-  fr: 
+  mx: 
     languageName: Español 
     weight: 3
     
