@@ -14,7 +14,7 @@ languages:
     languageName: Español 
     weight: 3
     
-DefaultContentLanguage: es
+DefaultContentLanguage: en
     
 # Control TOC depth
 markup:
