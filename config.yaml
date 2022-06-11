@@ -10,9 +10,9 @@ languages:
   en:
     languageName: English
     weight: 1
-  #mx: 
-    #languageName: Español 
-    #weight: 3
+  mx: 
+    languageName: Español 
+    weight: 2
     
 DefaultContentLanguage: en
     
