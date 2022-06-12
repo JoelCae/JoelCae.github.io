@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Education
+  name: Educación
   id: education
   template: sections/education.html # Use "sections/education-alt.html for alternate template.
   enable: true
@@ -10,7 +10,7 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Master in Economics
+- name: Mastría en Economía
   icon: fa-graduation-cap
   timeframe: 2019-2021
   institution:
@@ -21,10 +21,10 @@ degrees:
     #achieved: 3.6
     #outOf: 4
   publications: #(optional)
-  - title: "Thesis: NAFTA Effects on the Mexican Agricultural Sector: An Application of the Synthetic Control Method"
+  - title: " Tesis: Efectos del TLCAN en el sector agricola de México: Una aplicación del Método de Control Sintético"
     url: "#"
     
-- name: Bachelor in International Trade
+- name: Licenciatura en Comercio Internacional 
   icon: fa-graduation-cap
   timeframe: 2013-2018
   institution:
@@ -52,7 +52,7 @@ degrees:
      # achieved: 3.75
      # outOf: 4
   publications: #(optional)
-  - title: "Thesis: Analysis of the domestic market and foreign trade of pork meat in Mexico"
+  - title: "Tesis: Análisis del mercado interno y comercio exterior de la carne de cerdo en México"
     url: "#"
   #extracurricularActivities: #(optional)
   #- In vitae facilisis est, eget porta sem.
