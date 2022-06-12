@@ -1,0 +1,62 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Economista
+# your company information
+company:
+  name: SAT.
+  url: "https://www.sat.gob.mx/home"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/CV - Joel Castillo.pdf"
+
+# a summary about you
+summary: ' I am an economist passionate about econometrics, data science and programming. I develop my skills and tools to have a more complete professional version of myself.'
+#[Kubernetes](https://kubernetes.io/)
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "jocastillo@colmex.mx"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/joel-castillo-espinosa/"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/JoelCae"
+
+#- name: Stackoverflow
+ # icon: "fab fa-stack-overflow"
+ # url: "#"
+
+#- name: Twitter
+  #icon: "fab fa-twitter"
+  #url: "#"
+
+#- name: Facebook
+  #icon: "fab fa-facebook"
+  #url: "#"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Economics
+  percentage: 90
+  color: blue
+- name: Data skills
+  percentage: 85 
+  color: green
+- name: Statistical programming
+  percentage: 80
+  color: sky
