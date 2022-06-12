@@ -18,7 +18,7 @@ company:
 resume: "files/CV - Joel Castillo.pdf"
 
 # a summary about you
-summary: ' I am an economist passionate about econometrics, data science and programming. I develop my skills and tools to have a more complete professional version of myself.'
+summary: ' Soy economista apasionado por la econometría, la ciencia de datos y la programación. Desarrollo mis habilidades para tener siempre un desarrollo profesional más completo de mi.'
 #[Kubernetes](https://kubernetes.io/)
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -51,12 +51,12 @@ socialLinks:
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Economics
+- name: Economía
   percentage: 90
   color: blue
 - name: Data skills
   percentage: 85 
   color: green
-- name: Statistical programming
+- name: Programación estadistica
   percentage: 80
   color: sky
