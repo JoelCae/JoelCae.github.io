@@ -1,0 +1,82 @@
+# section information
+section:
+  name: Additional
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Language
+  filter: "language"
+- name: Academic
+  filter: "academic"
+#- name: Hobby
+ # filter: "hobby"
+
+# your projects
+projects:
+- name: STATA 
+  logo: /images/sections/projects/STATA.png
+  role: Course
+  timeline: "2021"
+  #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Econometric analysis with STATA - El Colegio de México
+  tags: ["academic"]
+
+- name: Statistics
+  logo: /images/sections/projects/statistics1.png
+  role: Course
+  timeline: "2021"
+  #repo: https://github.com/tensorflow/tensorflow
+  #url: ""
+  summary: Introduction to Statistics
+  tags: ["academic"]
+
+- name: Statistic and probability
+  logo: /images/sections/projects/statistics2.png
+  role: Course
+  timeline: "2020"
+  #url: "https://www.example.com"
+  summary: Introduction Statistic and probability - Universidad Nacional Autónoma de México
+  tags: ["academic"]
+
+- name: Python
+  logo: /images/sections/projects/Python.png
+  role: Course
+  timeline: "2020"
+  #repo: https://github.com/kelseyhightower/nocode
+  #url: ""
+  summary:  Introduction to Python Programming - Pontificia Universidad Católica de Chile
+  tags: ["academic"]
+
+- name: R
+  logo: /images/sections/projects/R.png
+  role: Course
+  timeline: "2019"
+  #repo: https://github.com/hossainemruz/toha
+  summary: Statistical programming with R - Universidad Nacional Autónoma de México
+  tags: ["academic"]
+  
+- name: French
+  logo: /images/sections/projects/France.png
+  role: Certification
+  timeline: "2018"
+  #repo: https://github.com/hossainemruz/toha
+  summary: "Diplôme d'études en langue française B1 - Ministry of Education of the French Republic"
+  tags: ["language"]
+  
+- name: English
+  logo: /images/sections/projects/Alberta.png
+  role: Course
+  timeline: "2017"
+  #repo: https://github.com/hossainemruz/toha
+  summary: "Intermediate English Language Course  - University of Alberta"
+  tags: ["language"]
+  
