@@ -11,7 +11,7 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Programing 
+- name: Programación
   logo: "/images/sections/skills/Python.png"
   summary: "Use of STATA, R and Python for data analysis, statistical and econometric programming. Excel and SPSS for data management and statistics."
   #url: "https://kubernetes.io/"
