@@ -58,11 +58,11 @@ projects:
 
 - name: R
   logo: /images/sections/projects/R.png
-  role: Course
+  role: Curso
   timeline: "2019"
   #repo: https://github.com/hossainemruz/toha
   summary: Programación estadística con R - Universidad Nacional Autónoma de México
-  tags: ["academic"]
+  tags: ["academico"]
   
 - name: Francés
   logo: /images/sections/projects/France.png
