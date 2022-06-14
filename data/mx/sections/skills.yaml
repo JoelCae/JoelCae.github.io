@@ -1,0 +1,22 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Programing 
+  logo: "/images/sections/skills/Python.png"
+  summary: "Use of STATA, R and Python for data analysis, statistical and econometric programming. Excel and SPSS for data management and statistics."
+  #url: "https://kubernetes.io/"
+
+- name: Analysis
+  logo: "/images/sections/skills/Analysis.png"
+  summary: "Data mining, econometric methods, machine learning, spatial analysis, R Shiny, network analysis, data visualization, text analysis."
+  #url: "https://golang.org/"
