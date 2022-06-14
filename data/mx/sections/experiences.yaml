@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Experiences
+  name: Experiencia
   id: experiences
   enable: true
   weight: 3
@@ -13,15 +13,15 @@ experiences:
 - company:
     name: Servicio de Administración Tributaria (SAT)
     url: "https://www.sat.gob.mx/home"
-    location: Mexico City
+    location: Ciudad de México
     # company overview
-    overview: The SAT is the national tax agency in Mexico.
+    overview: El SAT es la autoridad fiscal nacional encarganda de la administración tributaria.
   positions:
-  - designation: Head of Deparment
+  - designation: Jefe de Departamento
     start: Oct 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Analysis of taxpayer services
-    - Analysis of taxpayer registry data
+    - Análisis de los servicos al contribuyente presentados por el SAT 
+    - Análisis de la base de datos de contribuyentes 
