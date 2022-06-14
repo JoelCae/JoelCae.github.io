@@ -12,7 +12,7 @@ languages:
     weight: 1
   mx: 
     languageName: Español 
-    weight: 3
+    weight: 2
     
 DefaultContentLanguage: en
     
