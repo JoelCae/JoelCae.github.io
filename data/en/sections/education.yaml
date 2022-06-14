@@ -1,62 +1,61 @@
 # section information
 section:
-  name: About
-  id: about
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
   enable: true
-  weight: 1
+  weight: 4
   showOnNavbar: true
-  template: sections/about.html
+  # Can optionally hide the title in sections
+  # hideTitle: true
 
-# your designation
-designation: Economista
-# your company information
-company:
-  name: SAT.
-  url: "https://www.sat.gob.mx/home"
-
-# your resume. this file path should be relative to you "static" directory
-resume: "files/CV - Joel Castillo.pdf"
-
-# a summary about you
-summary: ' I am an economist passionate about econometrics, data science and programming. I develop my skills and tools to have a more complete professional version of myself.'
-#[Kubernetes](https://kubernetes.io/)
-# your social links
-# give as many as you want. use font-awesome for the icons.
-socialLinks:
-- name: Email
-  icon: "fas fa-envelope"
-  url: "jocastillo@colmex.mx"
-
-- name: LinkedIn
-  icon: "fab fa-linkedin"
-  url: "https://www.linkedin.com/in/joel-castillo-espinosa/"
-
-- name: Github
-  icon: "fab fa-github"
-  url: "https://github.com/JoelCae"
-
-#- name: Stackoverflow
- # icon: "fab fa-stack-overflow"
- # url: "#"
-
-#- name: Twitter
-  #icon: "fab fa-twitter"
-  #url: "#"
-
-#- name: Facebook
-  #icon: "fab fa-facebook"
-  #url: "#"
-
-# your soft skills
-# give the percentage between 50 to 100 with 5 intervals.
-# currently supported colors: blue, yellow, pink, green, sky, orange
-softSkills:
-- name: Economics
-  percentage: 90
-  color: blue
-- name: Data skills
-  percentage: 85 
-  color: green
-- name: Statistical programming
-  percentage: 80
-  color: sky
+degrees:
+- name: Master in Economics
+  icon: fa-graduation-cap
+  timeframe: 2019-2021
+  institution:
+    name: El Colegio de México
+    url: "https://www.colmex.mx"
+  #grade: #(optional)
+   # scale: CGPA
+    #achieved: 3.6
+    #outOf: 4
+  publications: #(optional)
+  - title: "Thesis: NAFTA Effects on the Mexican Agricultural Sector: An Application of the Synthetic Control Method"
+    url: "#"
+    
+- name: Bachelor in International Trade
+  icon: fa-graduation-cap
+  timeframe: 2013-2018
+  institution:
+    name: Universidad Autónoma Chapingo
+    url: "https://www.chapingo.mx"
+  #grade: #(optional)
+   # scale: CGPA
+    #achieved: 3.5
+    #outOf: 4
+  #takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+   # showGrades: true
+    #collapseAfter: 3
+    #courses:
+    #- name: Data Structures and Algorithm
+     # achieved: 3.75
+     # outOf: 4
+    #- name: Network Security
+     # achieved: 3.80
+     # outOf: 4
+    #- name: Operating System
+     # achieved: 3.5
+      #outOf: 4
+    #- name: Artificial Intelligent
+     # achieved: 3.75
+     # outOf: 4
+  publications: #(optional)
+  - title: "Thesis: Analysis of the domestic market and foreign trade of pork meat in Mexico"
+    url: "#"
+  #extracurricularActivities: #(optional)
+  #- In vitae facilisis est, eget porta sem.
+  #- Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
+  #- Duis sed massa feugiat, ornare justo et, aliquam est.
+  #- Pellentesque ut fringilla magna.
