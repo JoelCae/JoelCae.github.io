@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Additional
+  name: Adicional
   id: projects
   enable: true
   weight: 5
@@ -10,11 +10,11 @@ section:
 
 # filter buttons
 buttons:
-- name: All
+- name: Todo
   filter: "all"
-- name: Language
+- name: Idioma
   filter: "language"
-- name: Academic
+- name: Académico
   filter: "academic"
 #- name: Hobby
  # filter: "hobby"
