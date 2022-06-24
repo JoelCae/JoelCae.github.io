@@ -11,7 +11,7 @@ section:
 # filter buttons
 buttons:
 - name: Todo
-  filter: "todo"
+  filter: "all"
 - name: Idioma
   filter: "idioma"
 - name: Académico
@@ -23,7 +23,7 @@ buttons:
 projects:
 - name: STATA 
   logo: /images/sections/projects/STATA.png
-  role: Course
+  role: Curso
   timeline: "2021"
   #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
@@ -32,7 +32,7 @@ projects:
 
 - name: Statistics
   logo: /images/sections/projects/statistics1.png
-  role: Course
+  role: Curso
   timeline: "2021"
   #repo: https://github.com/tensorflow/tensorflow
   #url: ""
@@ -41,7 +41,7 @@ projects:
 
 - name: Statistic and probability
   logo: /images/sections/projects/statistics2.png
-  role: Course
+  role: Curso
   timeline: "2020"
   #url: "https://www.example.com"
   summary: Introduction Statistic and probability - Universidad Nacional Autónoma de México
@@ -49,7 +49,7 @@ projects:
 
 - name: Python
   logo: /images/sections/projects/Python.png
-  role: Course
+  role: Curso
   timeline: "2020"
   #repo: https://github.com/kelseyhightower/nocode
   #url: ""
@@ -58,7 +58,7 @@ projects:
 
 - name: R
   logo: /images/sections/projects/R.png
-  role: Course
+  role: Curso
   timeline: "2019"
   #repo: https://github.com/hossainemruz/toha
   summary: Statistical programming with R - Universidad Nacional Autónoma de México
@@ -66,7 +66,7 @@ projects:
   
 - name: French
   logo: /images/sections/projects/France.png
-  role: Certification
+  role: Certificación
   timeline: "2018"
   #repo: https://github.com/hossainemruz/toha
   summary: "Diplôme d'études en langue française B1 - Ministry of Education of the French Republic"
@@ -74,7 +74,7 @@ projects:
   
 - name: English
   logo: /images/sections/projects/Alberta.png
-  role: Course
+  role: Curso
   timeline: "2017"
   #repo: https://github.com/hossainemruz/toha
   summary: "Intermediate English Language Course  - University of Alberta"
