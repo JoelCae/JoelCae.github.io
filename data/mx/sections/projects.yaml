@@ -11,11 +11,11 @@ section:
 # filter buttons
 buttons:
 - name: Todo
-  filter: "all"
+  filter: "todo"
 - name: Idioma
-  filter: "language"
+  filter: "idioma"
 - name: Académico
-  filter: "academic"
+  filter: "académico"
 #- name: Hobby
  # filter: "hobby"
 
@@ -28,7 +28,7 @@ projects:
   #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Econometric analysis with STATA - El Colegio de México
-  tags: ["academic"]
+  tags: ["académico"]
 
 - name: Statistics
   logo: /images/sections/projects/statistics1.png
@@ -37,7 +37,7 @@ projects:
   #repo: https://github.com/tensorflow/tensorflow
   #url: ""
   summary: Introduction to Statistics
-  tags: ["academic"]
+  tags: ["académico"]
 
 - name: Statistic and probability
   logo: /images/sections/projects/statistics2.png
@@ -45,7 +45,7 @@ projects:
   timeline: "2020"
   #url: "https://www.example.com"
   summary: Introduction Statistic and probability - Universidad Nacional Autónoma de México
-  tags: ["academic"]
+  tags: ["académico"]
 
 - name: Python
   logo: /images/sections/projects/Python.png
@@ -54,7 +54,7 @@ projects:
   #repo: https://github.com/kelseyhightower/nocode
   #url: ""
   summary:  Introduction to Python Programming - Pontificia Universidad Católica de Chile
-  tags: ["academic"]
+  tags: ["académico"]
 
 - name: R
   logo: /images/sections/projects/R.png
@@ -62,7 +62,7 @@ projects:
   timeline: "2019"
   #repo: https://github.com/hossainemruz/toha
   summary: Statistical programming with R - Universidad Nacional Autónoma de México
-  tags: ["academic"]
+  tags: ["académico"]
   
 - name: French
   logo: /images/sections/projects/France.png
@@ -70,7 +70,7 @@ projects:
   timeline: "2018"
   #repo: https://github.com/hossainemruz/toha
   summary: "Diplôme d'études en langue française B1 - Ministry of Education of the French Republic"
-  tags: ["language"]
+  tags: ["idioma"]
   
 - name: English
   logo: /images/sections/projects/Alberta.png
@@ -78,4 +78,4 @@ projects:
   timeline: "2017"
   #repo: https://github.com/hossainemruz/toha
   summary: "Intermediate English Language Course  - University of Alberta"
-  tags: ["language"]
+  tags: ["idioma"]
