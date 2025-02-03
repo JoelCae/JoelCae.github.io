@@ -33,7 +33,7 @@
 
     <h1>¡Nuestra Página se Ha Mudado!</h1>
     <p>Hemos actualizado nuestra dirección web. Ahora puedes encontrarnos en:</p>
-    <a href="https://nuevadireccion.com" class="link">joelcastillo.netlify.app</a>
+    <a href="joelcastillo.netlify.app class="link">joelcastillo.netlify.app</a>
     <p>Por favor, actualiza tus marcadores para acceder a nuestra nueva página.</p>
 
 </body>
