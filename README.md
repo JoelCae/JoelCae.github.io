@@ -9,7 +9,7 @@
 
 ---
 
-<span style="color: #32cd32;">**Gracias y disulpa cualquier incoveniente**.</span>
+<span style="color: ##800080">**Gracias y disulpa cualquier incoveniente**.</span>
 
 ---
 
