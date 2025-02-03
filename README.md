@@ -1,17 +1,15 @@
-# 🚨 ¡Nuestra Página se Ha Mudado! 🚨
+# <span style="color: #ff6347;">🚨 ¡Nuestra Página se Ha Mudado! 🚨</span>
 
 Hemos actualizado nuestra dirección web. Ahora puedes encontrarnos en la siguiente URL:
 
-## 🌐 **[https://nuevadireccion.com](https://nuevadireccion.com)** 🌐
+## <span style="color: #4682b4;">🌐 **[https://nuevadireccion.com](https://nuevadireccion.com)** 🌐</span>
 
 🔄 **¡Por favor, actualiza tus marcadores para acceder a nuestra nueva página!**
 
 ---
 
-**Gracias por seguirnos** y por tu paciencia durante la transición. 
-
-🔹 Si tienes alguna duda, no dudes en contactarnos a través de nuestro nuevo sitio.
+<span style="color: #32cd32;">**Gracias por seguirnos** y por tu paciencia durante la transición.</span>
 
 ---
 
-> *"¡Siempre es un placer mejorar para ustedes!"* 💙
+> <span style="color: #800080;">*"¡Siempre es un placer mejorar para ustedes!"*</span> 💙
