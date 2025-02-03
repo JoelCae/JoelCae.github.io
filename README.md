@@ -1,15 +1,18 @@
-# <span style="color: #ff6347;">🚨 ¡Nuestra Página se Ha Mudado! 🚨</span>
+<div style="text-align: center;">
 
-Hemos actualizado nuestra dirección web. Ahora puedes encontrarnos en la siguiente URL:
 
-## <span style="color: #4682b4;">🌐 **[https://nuevadireccion.com](https://nuevadireccion.com)** 🌐</span>
+<!-- # <span style="color: #ff6347;">🚨 ¡Nuestra Página se Ha Mudado! 🚨</span> -->
 
-🔄 **¡Por favor, actualiza tus marcadores para acceder a nuestra nueva página!**
+# <span style="color: #ff6347;">🚨 Hemos actualizado dirección de mi pagina personal. Ahora puedes encontrarme en la siguiente URL:🚨</span>
 
----
-
-<span style="color: #32cd32;">**Gracias por seguirnos** y por tu paciencia durante la transición.</span>
+## <span style="color: #4682b4;">🌐 **[joelcastillo.netlify.app](joelcastillo.netlify.app)** 🌐</span>
 
 ---
 
-> <span style="color: #800080;">*"¡Siempre es un placer mejorar para ustedes!"*</span> 💙
+<span style="color: #32cd32;">**Gracias y disulpa cualquier incoveniente**.</span>
+
+---
+
+<!-- > <span style="color: #800080;">*"¡Siempre es un placer mejorar para ustedes!"*</span> 💙 -->
+
+</div>
