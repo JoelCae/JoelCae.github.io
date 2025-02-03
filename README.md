@@ -1,40 +1,15 @@
+# <span style="color: #ff6347;">🚨 ¡Nuestra Página se Ha Mudado! 🚨</span>
 
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>¡Nueva Dirección!</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f9;
-            text-align: center;
-            padding: 50px;
-        }
-        h1 {
-            color: #333;
-        }
-        p {
-            font-size: 1.2em;
-            color: #555;
-        }
-        .link {
-            font-size: 1.5em;
-            color: #007BFF;
-            text-decoration: none;
-            font-weight: bold;
-        }
-        .link:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
-<body>
+Hemos actualizado nuestra dirección web. Ahora puedes encontrarnos en la siguiente URL:
 
-    <h1>¡Nuestra Página se Ha Mudado!</h1>
-    <p>Hemos actualizado nuestra dirección web. Ahora puedes encontrarnos en:</p>
-    <a href="https://nuevadireccion.com" class="link">https://nuevadireccion.com</a>
-    <p>Por favor, actualiza tus marcadores para acceder a nuestra nueva página.</p>
+## <span style="color: #4682b4;">🌐 **[https://nuevadireccion.com](https://nuevadireccion.com)** 🌐</span>
 
-</body>
-</html>
+🔄 **¡Por favor, actualiza tus marcadores para acceder a nuestra nueva página!**
+
+---
+
+<span style="color: #32cd32;">**Gracias por seguirnos** y por tu paciencia durante la transición.</span>
+
+---
+
+> <span style="color: #800080;">*"¡Siempre es un placer mejorar para ustedes!"*</span> 💙
