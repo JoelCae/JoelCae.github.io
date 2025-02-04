@@ -6,5 +6,5 @@
  
 ---
 <span style="color: #800080">**Sorry for the inconveniences**.</span>
----
+
 <!-- > <span style="color: #800080;">*"¡Siempre es un placer mejorar para ustedes!"*</span> 💙 ## 🌐 **[joelcastillo.netlify.app](joelcastillo.netlify.app)** 🌐  -->
