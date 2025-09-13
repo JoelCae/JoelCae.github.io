@@ -1,10 +1,14 @@
 
-<!-- # <span style="color: #ff6347;">🚨 ¡Nuestra Página se Ha Mudado! 🚨</span> -->
-# <span style="color: #000000;">  Hi, I changed my web page. Now you can visit it in: </span>
 
-## [joelcastillo.netlify.app](https://joelcastillo.netlify.app)
- 
-<span style="color: #800080">**Sorry for the inconveniences**.</span>
-
----
-<!-- > <span style="color: #800080;">*"¡Siempre es un placer mejorar para ustedes!"*</span> 💙 ## 🌐 **[joelcastillo.netlify.app](joelcastillo.netlify.app)** 🌐  -->
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf8">
+    <meta http-equiv="refresh" content="0; url=https://joelcastillo.netlify.app">
+    <link rel="canonical" href="https://joelcastillo.netlify.app">
+    <title>This page has moved</title>
+</head>
+<body>
+    <p>This page has moved. Redirecting you to <a href="https://joelcastillo.netlify.app">https://newurl/</a>&hellip;</p>
+</body>
+</html>
